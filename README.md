@@ -30,4 +30,4 @@ Hulcr, J. et al. (2012) *A Jungle in There: Bacteria in Belly Buttons are Highly
 
 Plots in this script: Bar plot and Scatter (Bubble) plots.
 
-MockarooLinks generated References Data to an external site., LLC (2022). Realistic Data Generator.
+The code was written based on class files, D3, JavaScript, and HTML documentation, and with the help of TA Erin Williams.
